@@ -1,1 +1,1 @@
-# DATA4380--Final-Project
+# Diabetic Retinopathy Detection using Convolutional Neural Network
