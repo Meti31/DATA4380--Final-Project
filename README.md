@@ -22,11 +22,10 @@ The model had an accuracy score of 0.82947
 # Summary of Workdone
 
 Data:
-    
     Type:
-    Input: retina images taken by from different models and types of cameras. And the images are different size. And there is a csv file that contains the diagnosis along with id_code of the images
+        Input: retina images taken by from different models and types of cameras. And the images are different size. And there is a csv file that contains the diagnosis along with id_code of the images
     Size: 
-     The orginal dataset had more than 30,000 retina images but for this repository we have used 2929 for training and 733 images where used for Testing
+         The orginal dataset had more than 30,000 retina images but for this repository we have used 2929 for training and 733 images where used for Testing
 
 # Data Visualization
 <img width="392" alt="image" src="https://user-images.githubusercontent.com/89664911/171306832-16bf7d0f-b2f7-408e-88b8-f9267a015c5d.png">
