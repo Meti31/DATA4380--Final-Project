@@ -39,7 +39,7 @@ Visualization of the retina images along with their diagnosis. The images are ta
 <img width="593" alt="image" src="https://user-images.githubusercontent.com/89664911/171325918-dbab3f11-52e2-487c-9592-15b7dbdf265d.png">
 
 # Problem Formulation and Training
-The dataset was shuffled and spilit to training and Test. Then run-time augmentation was done on both set. For training datagenerator,  normalization, shear angle, zooming range and horizontal flip was added. But for test just normalization was added.Then datagenerator is created for training, validation and test dataset.Next the Deep learning model was compiled and Trained.Early stopping was used to exit training when validation loss was not decreasing  after certain epochs.The the best model with lower validation loss was saved.
+The dataset was shuffled and spilit to training and Test. Then run-time augmentation was done on both set. For training datagenerator,  normalization, shear angle, zooming range and horizontal flip was added. But for test just normalization was added.Then datagenerator is created for training, validation and test dataset.Next the Deep learning model was compiled and Trained.Early stopping was used to exit training when validation loss was not decreasing  after certain epochs.Then the best model with lower validation loss was saved.
 <img width="391" alt="image" src="https://user-images.githubusercontent.com/89664911/171328894-619fea27-1e87-4814-bde7-b4163045f56f.png">
 
 # Performance Comparison
