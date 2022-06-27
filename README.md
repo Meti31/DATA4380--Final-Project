@@ -65,7 +65,7 @@ The notebook Diabetic Retinopathy Detection contain the whole process starting f
 # Citation
 1) https://github.com/gregwchase/eyenet
 2) https://blog.jovian.ai/using-resnet-for-image-classification-4b3c42f2a27e
-3) https://www.coursera.org/
+3) https://www.coursera.org
 
 
 
